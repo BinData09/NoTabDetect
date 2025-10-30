@@ -1,1 +1,1 @@
-# NoTabDetect
+Repositório contendo um bookmarklet destinado a impedir que páginas detectem a abertura de novas abas. O script desativa funções como window.open e eventos de descarregamento, prevenindo mecanismos comuns de detecção de mudanças de aba pelo site. O bookmarklet deve ser adicionado como favorito e acionado na página onde se deseja aplicar a funcionalidade, promovendo maior controle da navegação sem interferências externas.
