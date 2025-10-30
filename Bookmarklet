@@ -1,0 +1,5 @@
+javascript:(function() {
+  window.open = function() { return null; };
+  window.onbeforeunload = null;
+  alert('Tab detection prevention enabled on this page.');
+})();
